@@ -1,0 +1,12 @@
+{
+    "name": "juanelosrock/librerias-pdf-php74",
+    "description": "Librerias para el trabajo con PDF para Yii 1.1 en php 7.4 a 8.1 probado",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Juan Manuel Ruiz",
+            "email": "nojuancho@hotmail.com"
+        }
+    ],
+    "require": {}
+}
